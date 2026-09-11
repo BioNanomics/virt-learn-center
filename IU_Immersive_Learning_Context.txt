@@ -1,0 +1,482 @@
+BIONANOMICS
+IU FORT WAYNE IMMERSIVE HEALTH PROFESSIONS LEARNING LABORATORY
+Cleaned source context | Prepared September 10, 2026
+
+PURPOSE AND SOURCE STATUS
+
+This file organizes an email from Deborah R. Garrison and an accompanying
+copied ChatGPT conversation into reusable project context. It preserves the
+substantive proposals, local details, budget line items, and research leads.
+It removes conversational invitations to generate more material, repeated
+headings, empty “Sources” markers, and mobile-email boilerplate. It is a
+cleaned synthesis, not a verbatim transcript.
+
+Evidence categories used below:
+- LOCAL CONTEXT: information reported in the supplied email; not independently
+  confirmed with IU or the NIIC.
+- PROPOSAL: ideas generated in the copied ChatGPT exchange; not approved plans.
+- UNVERIFIED CLAIM: external factual, legal, vendor, pricing, or research
+  assertions from that exchange that require primary-source verification.
+- ARITHMETIC CHECK: calculations performed directly on the supplied figures.
+
+No source bibliography accompanied the copied “Sources” markers. No web
+research or vendor verification has been performed for this preparation file.
+BioNanomics' organizational or contractual role was not specified.
+
+
+1. LOCAL CONTEXT AND STAKEHOLDER INTENT
+
+Source: supplied email signed Deborah R. Garrison, Ph.D., Inaugural Vice
+Chancellor and Dean, Indiana University Fort Wayne.
+
+Deborah reports that IU is already leasing unoccupied space in the NIIC
+that could be outfitted with technology. In addition to equipment, the
+space needs IT connectivity estimated at approximately $10,000 and a small
+amount of renovation. The email does not provide a floor plan, square
+footage, renovation estimate, lease terms, or recurring facility costs.
+
+Several stakeholders planned to gather at the space on Monday between
+8:15 and 9:00 a.m. The calendar date is not given and should not be inferred
+from the date this file was created. Deborah invited participation or an
+alternative meeting time.
+
+The project is connected to discussions about a grant and a desire to
+improve student retention. Science prerequisites were described as
+challenging; Kim participated in an earlier Friday conversation and helped
+underscore that challenge. Kim's full name and role were not supplied.
+
+Deborah had added a ChatGPT prompt after an earlier participant's prompt,
+but access required IU credentials, which she suggested might explain why
+the other participant could not read it. This working record is based only
+on the pasted material, not on the inaccessible original conversation.
+
+The educational scope requested in the conversation is a shared laboratory
+for nursing, health sciences, dental hygiene, and medical imaging, together
+with foundational science courses supporting those baccalaureate degrees.
+VR and AI should be included. The requested planning work also includes a
+startup outline, budget, and one or two support positions.
+
+
+2. PROPOSED EDUCATIONAL VISION
+
+Working name: Immersive Health Professions Learning Laboratory (IHPLL).
+
+Create a shared environment connecting foundational science to clinical
+practice. The organizing teaching sequence proposed in the chat is:
+
+See it -> Explore it -> Practice it -> Apply it -> Explain it.
+
+Relevant foundational subjects include anatomy and physiology, biology,
+microbiology, chemistry, physics, pathophysiology, and pharmacology.
+
+The intended access model is no required student purchase for laboratory
+learning materials and platforms. Institutional subscriptions can support
+that objective even when the software itself is commercial. The desired
+procurement conditions include no student credit cards, no reliance on
+expiring personal trials, and access for the entire course through an
+institutionally appropriate authentication method.
+
+The prior chat suggested that a $10,000-$30,000 institutional subscription
+might be reasonable if it replaced $150-$300 per student in existing
+materials. These are illustrative assumptions, not established IU costs
+or savings. Any replacement and savings claim needs course-level evidence.
+
+
+3. CONTENT AND PLATFORM OPTIONS FROM THE PRIOR CHAT
+
+All product features, licensing statements, counts, and prices in this
+section are UNVERIFIED CLAIMS or research leads from the copied exchange.
+They must not be used as procurement or legal conclusions.
+
+A. Foundational content with no required student purchase
+
+- Crash Course Anatomy & Physiology was proposed as supplemental video
+  instruction using official links or embeds in Canvas.
+- OpenStax Anatomy & Physiology was proposed as the core text/reference.
+- IU faculty would provide curriculum alignment, labs, assessments,
+  discussion, clinical extensions, and academic credit.
+- A possible sequence: assigned chapter -> official Crash Course episode
+  -> IU-created quiz, discussion, lecture, or lab.
+
+The earlier chat asserted that official linking/embedding can avoid the
+need for a separate reproduction license under IU guidance, and that
+Crash Course offers an educational download request process for schools
+unable to access YouTube. It distinguished public viewing from permission
+to download, rehost, edit, dub, or remix videos, and noted that a standard
+YouTube license is different from an item-specific Creative Commons license.
+Verify the current publisher terms, the particular videos, IU guidance,
+accessibility, and any intended modifications before implementation.
+
+The IU School of Medicine Center for Anatomy and Physiology Education
+(CAPE) was identified as a potential internal resource for anatomy and
+physiology instruction, including distance education. Confirm current
+services and the appropriate point of contact.
+
+B. Commercial anatomy and simulation platforms
+
+Complete Anatomy / Elsevier
+- Described as a detailed anatomy reference with male/female gross anatomy,
+  microanatomy, cross-sections, radiology, courses, and roughly 1,500 videos.
+- Institutional licensing was described as quote-based and potentially
+  covering faculty/student access and curriculum/presentation capabilities.
+- The chat quoted individual pricing of $39.99 for the first year and
+  $74.99 on renewal. These are historical statements in the pasted text,
+  not verified current prices or institutional budget inputs.
+
+3D Organon
+- Proposed for immersive VR/XR anatomy, quizzes, medical imaging, and
+  shared instructor/student sessions through its “Medverse.”
+- The chat claimed 17,000+ anatomical models/structures and 1,000+
+  microanatomy structures in the XR version.
+- It also claimed a licensed instructor could host a remote-delivery room
+  that students join as guests without buying individual licenses.
+- Institutional, guest, concurrent-user, device, and off-campus rights
+  need explicit confirmation for the intended classroom configuration.
+
+BioDigital Human
+- Proposed for browser-based 3D anatomy and physiology.
+- The chat stated that, as of May 2026, a free individual tier included
+  500+ models/tours/quizzes but allowed only 10 model views per month.
+- A School plan was described as removing those restrictions and enabling
+  sharing/embedding. Verify the current terms and practical course limits.
+
+ZygoteBody
+- Mentioned as a browser-based anatomy option without detailed evaluation.
+
+Elsevier Shadow Health Lab with Virtual Reality
+- The chat claimed a June 2026 launch with more than 165 lab simulations
+  and 30 VR patient encounters. Verify the exact product identity, dates,
+  capabilities, supported programs, hardware, and licensing.
+
+C. Open anatomy and custom software
+
+BodyParts3D / Anatomography was described as a source of anatomical
+geometry, including STL/OBJ assets, under CC BY-SA 2.1 Japan. Verify the
+license of each dataset/version, attribution requirements, and obligations
+for the intended distribution and modifications.
+
+A proposed custom browser anatomy workspace could use Three.js, WebGPU,
+and/or WebXR to support organ-system toggles, exploded views, virtual
+dissection, terminology search, annotations, imaging comparisons,
+collaboration, headset access, and shared display of the same session.
+
+This is a longer-term build concept. Anatomical geometry alone does not
+establish clinical accuracy, complete instructional content, imaging
+registration, accessibility, collaborative functionality, or maintainable
+software. Development, expert review, hosting, security, and support effort
+were not estimated in the original budget.
+
+
+4. PROPOSED ROOM MODEL AND LEARNING FUNCTIONS
+
+The earlier anatomy discussion proposed a hybrid room for roughly 24
+learners, with 8-12 VR stations and teams of two or three rotating between
+headsets, 2D references, and imaging. These are planning assumptions, not
+confirmed enrollment or room-capacity figures.
+
+An example task is to locate and trace the vagus nerve in VR, compare its
+path with an atlas and CT/MRI slices, and explain the relationship to the
+class using the large display.
+
+The expanded lab concept proposed approximately 2,000-3,000 square feet
+and the following functions. Actual capacity depends on the leased space,
+clearances, access requirements, electrical service, and approved design.
+
+A. Immersive anatomy and foundational science
+- 8-12 headsets and a large instructor display.
+- Virtual dissection, organ-system isolation, transparency, gross-to-micro
+  exploration, normal/pathological comparisons, and formative assessment.
+- Dynamic physiology and connections to radiographic anatomy.
+
+B. Medical imaging exploration
+- High-resolution displays and DICOM viewing workstations.
+- Properly sourced, deidentified or synthetic CT/MRI and other teaching cases.
+- Sectional anatomy, 3D reconstruction, ultrasound training, and virtual
+  positioning exercises.
+- Cross-program sequence: anatomy -> X-ray -> CT -> MRI -> ultrasound
+  -> pathology.
+- The source suggested “diagnostic-quality or high-resolution” displays.
+  The required educational specification and any clinical use need to be
+  defined before budgeting; those categories are not interchangeable.
+
+C. Virtual patients and clinical reasoning
+- History taking, assessment, clinical judgment, medication reasoning,
+  patient education, behavioral health, emergencies, and team communication.
+- Selective commercial simulation licenses plus faculty-developed activities.
+
+D. AI learning studio
+- An institutionally approved AI environment for simulated patient
+  interviews, anatomy/physiology tutoring, Socratic questioning, terminology,
+  handoffs, educational differential diagnosis exercises, simulated lab
+  interpretation, and patient-education practice.
+- Example case: a fictional 62-year-old patient with shortness of breath
+  who reveals information as the student asks appropriate questions.
+- Faculty-designed formative feedback and human review of assessment.
+- Fictional or properly deidentified cases within applicable IU privacy,
+  security, accessibility, and academic-integrity requirements.
+- AI should not independently determine student competency or progression.
+
+E. Physical clinical skills and simulation
+- Start with moderate-fidelity equipment linked to the virtual activities.
+- Potential capabilities: a patient-care bed station, vital signs,
+  medication administration, IV/injection practice, catheterization,
+  wound care, airway practice, CPR, phlebotomy, infection control,
+  oral-care/dental head simulation, ultrasound, and safe patient mobility.
+- Inventory existing IU resources before purchasing or adding functions.
+- A high-fidelity adult simulator was suggested for a later phase. The
+  chat cited approximately $84,000 for a SimMan 3G PLUS in an unspecified
+  procurement document; this is not a verified quote or complete cost.
+
+F. Shared immersive teaching and debriefing
+- One approximately 98-inch or larger primary 4K display or LED wall.
+- Two secondary displays, wireless presentation, instructor touchscreen,
+  microphones/cameras, speakers, flexible furniture, writable surfaces,
+  and controllable lighting.
+- Three-wall immersive projection was proposed as a later enhancement.
+- Suggested scenes included hospital rooms, emergency care, patient homes,
+  dental clinics, radiology suites, and community-health settings.
+
+
+5. EXAMPLE INTERDISCIPLINARY MODULE: SHORTNESS OF BREATH
+
+Anatomy and physiology: explore the lungs, heart, and pulmonary circulation.
+Microbiology: examine organisms and mechanisms associated with pneumonia.
+Chemistry: connect gas transport to acid-base balance.
+Physics: investigate X-ray production and attenuation.
+Medical imaging: interpret instructional chest radiographs and CT examples.
+Nursing: assess the simulated patient and prioritize appropriate responses.
+Dental hygiene: consider oral-systemic relationships, medications, and
+implications for dental care.
+Health sciences: address prevention, epidemiology, and population health.
+AI practice: interview a fictional patient using a faculty-designed case.
+Team simulation: respond to deterioration and practice communication.
+Debrief: explain the science behind decisions and identify learning gaps.
+
+This is an illustrative teaching scenario, not a validated clinical protocol
+or a completed module. Program faculty must define scope and objectives.
+
+
+6. ORIGINAL STARTUP BUDGET AND ARITHMETIC RECONCILIATION
+
+All amounts are USD planning allowances from the copied ChatGPT answer.
+No vendor quotes, tax treatment, institutional discounts, installation
+scope, or procurement approvals were supplied.
+
+Component                                                     Allowance
+12 standalone VR/MR headsets, cases, hygiene equipment           $10,000
+6 high-performance VR/AI workstations                           $15,000
+Large 98-inch-plus primary display                               $8,000
+Two 75-86-inch secondary displays                                $6,000
+Instructor touchscreen/control station                          $5,000
+Cameras, microphones, speakers, and recording                   $10,000
+Network/Wi-Fi upgrades                                           $7,500
+Charging/security/storage system                                $5,000
+Anatomy/VR institutional software                               $15,000
+AI platform/API/educational software allocation                 $10,000
+Imaging/DICOM software and educational datasets                  $5,000
+Ultrasound training system                                     $15,000
+Nursing/clinical skills equipment                              $20,000
+Dental hygiene simulation equipment                           $10,000
+Anatomy models/specimens/microscopes                            $10,000
+Flexible furniture                                            $15,000
+Electrical/lighting/minor room renovation                      $15,000
+Installation/training/contingency                              $13,500
+---------------------------------------------------------------------
+Stated total in the original answer                           $180,000
+Actual sum of the listed allowances                           $195,000
+Difference                                                     $15,000
+
+If the $7,500 network allowance is replaced by Deborah's approximately
+$10,000 connectivity estimate, the same list totals $197,500. This assumes
+the two descriptions cover the same scope; confirm that before treating
+one as a replacement. Do not automatically add both allowances.
+
+The prior answer described a Phase I range of $175,000-$225,000 and a
+capital/equipment target near $200,000. Its startup list includes software
+and mixed installation/training/contingency, so it is not a clean capital
+budget and should not be described as such without reclassification.
+
+The enhanced concept proposed $300,000-$400,000, with a working target near
+$350,000, adding a high-fidelity simulator, advanced ultrasound/dental
+simulation, 16-20 headsets, immersive projection, more imaging workstations,
+and stronger recording/debriefing systems. It did not supply itemized costs
+or clearly establish which first-year expenses those totals include.
+
+
+7. ORIGINAL ANNUAL OPERATING ALLOWANCES
+
+Expense                                                  Annual amount
+VR/anatomy/software licensing                          $15,000-$25,000
+AI services                                            $5,000-$15,000
+Simulation software                                            $5,000
+Consumable clinical supplies                                   $7,500
+Equipment replacement/maintenance                             $10,000
+Faculty development                                            $5,000
+Student employees                                             $10,000
+Innovation/pilot fund                                          $5,000
+---------------------------------------------------------------------
+Stated range in original answer                       $57,500-$77,500
+Actual sum of the listed allowances                   $62,500-$82,500
+
+This excludes the two proposed professional positions but includes the
+student-employee allowance. The $10,000 combined replacement/maintenance
+line should be split into service costs and a replacement reserve.
+
+Reconcile recurring imaging software, device management, identity/access,
+hosting, AI usage, warranties, connectivity, and other operating needs.
+The lease already exists, but ongoing rent, utilities, custodial service,
+and any grant-eligible incremental facility costs were not established.
+
+
+8. STAFFING OPTIONS PROPOSED IN THE CHAT
+
+Position 1: Director/Coordinator of Immersive Health Professions Education
+Proposed appointment: 1.0 FTE professional staff or faculty.
+Planning salary plus benefits: $90,000-$120,000 annually.
+
+Responsibilities:
+- Coordinate laboratory operations and cross-program faculty partnerships.
+- Design and support simulation, VR, and AI learning experiences.
+- Coordinate licensing and faculty development.
+- Develop interdisciplinary scenarios and assessment approaches.
+- Oversee student assistants, learning analytics, grants, and partnerships.
+- Evaluate educational outcomes.
+
+Suggested background: master's degree or higher in health professions
+education, instructional technology, nursing/allied health, simulation,
+or a related field. Classification, salary, reporting line, and faculty
+release arrangements require IU review.
+
+Position 2: Immersive Learning & Simulation Specialist
+Proposed appointment: 1.0 FTE.
+Planning salary plus benefits: $65,000-$85,000 annually.
+
+Responsibilities:
+- Prepare, maintain, and troubleshoot headsets, computers, and applications.
+- Orient students, supervise open lab hours, and support faculty sessions.
+- Assist with simulation, imaging visualization, and approved AI activities.
+- Train student workers and manage inventory, charging, and sanitation.
+
+Suggested background: bachelor's degree in health sciences, simulation
+technology, instructional technology, imaging, IT, or a related field.
+
+The prior chat also suggested 4-6 paid student Immersive Learning Assistants
+drawn from participating programs. The annual budget provides $10,000 for
+student employees but no wage or hours model; feasibility needs calculation.
+
+An alternative using existing staff was mentioned without defining their
+available capacity, required release time, or service coverage.
+
+
+9. YEAR-ONE TOTALS: WHAT THE SOURCE SAID AND WHAT REMAINS OPEN
+
+Original summary:
+Technology/equipment/renovation                         $180,000
+Director/Coordinator                                   $105,000
+Immersive Learning Specialist                            $75,000
+First-year operating budget                             $65,000
+--------------------------------------------------------------
+Original year-one total                                $425,000
+
+That four-line addition is correct, but its $180,000 input conflicts with
+the $195,000 sum of the underlying startup rows.
+
+Holding the other summary inputs fixed:
+- $195,000 + $105,000 + $75,000 + $65,000 = $440,000.
+- With a $10,000 replacement connectivity allowance, the result is $442,500.
+
+Neither figure is a final corrected funding request. Startup software
+allowances ($15,000 anatomy/VR, $10,000 AI, and $5,000 imaging/data) may overlap
+first-year operating licenses. Confirm the coverage period and scope of
+each line, classify one-time versus recurring expenses, and resolve missing
+costs before setting a year-one total.
+
+The copied chat also suggested:
+- $200,000-$250,000 for a lean launch with existing staff.
+- $400,000-$500,000 for a launch with two dedicated positions.
+- $225,000-$275,000 for subsequent annual operation including personnel.
+
+These are proposal ranges, not validated estimates. For comparison, the
+sum of the stated personnel ranges ($155,000-$205,000) and checked operating
+range ($62,500-$82,500) is $217,500-$287,500 annually before omissions or
+scope changes. Using the source's $180,000 staffing midpoint gives
+$242,500-$262,500 with the checked operating range.
+
+
+10. PROPOSED IMPLEMENTATION AND EVALUATION
+
+Original phase sequence, subject to stakeholder review:
+
+Months 0-6: prepare the space, acquire core technology, select software,
+hire or assign staff, and develop faculty pilots. The chat proposed starting
+with anatomy and physiology, nursing, and medical imaging.
+
+Months 6-12: expand dental hygiene, microbiology, pathophysiology,
+pharmacology, and health sciences activities; develop 10-15 interdisciplinary
+modules. That module count is a proposal, not a funded commitment.
+
+Year 2: consider high-fidelity simulation, advanced ultrasound, immersive
+projection, expanded AI patient work, and faculty/student research.
+
+The phased language is inconsistent about when AI virtual patients begin:
+AI is included in the startup vision but also named as a Year 2 addition.
+Research should distinguish a limited launch pilot from later expansion.
+Dental hygiene and health sciences should participate in planning from the
+start even if their equipment or modules are phased later.
+
+Proposed measures:
+- Course success and progression in foundational sciences.
+- Anatomy practical performance and clinical reasoning.
+- Faculty-assessed skills and clinical readiness.
+- Retention, student confidence, and perceived learning value.
+- Faculty adoption, lab utilization, and programs served.
+- Interdisciplinary encounters and instructional-material costs.
+- Research, scholarship, external support, and partnerships.
+
+Retention improvement is a project objective, not an established effect
+of the proposed technologies. Define baseline measures, comparison groups
+where feasible, access patterns, and follow-up periods before claiming
+an educational or retention benefit.
+
+Longer-term concept: a regional center joining education, simulation, AI,
+research, and workforce development, potentially partnering with hospitals,
+dental practices, imaging organizations, community colleges, high schools,
+and regional healthcare employers. No such partnerships were confirmed.
+
+
+11. UNVERIFIED RESEARCH AND INSTITUTIONAL PRECEDENTS
+
+The copied ChatGPT text supplied these leads without usable citations:
+
+- A claimed 2026 network meta-analysis finding benefits from VR and AI in
+  health professions learning, with different effects on practical skills
+  and knowledge. Locate the study and inspect methods, comparators,
+  population, effect sizes, uncertainty, and outcome relevance.
+- Claimed IU-affiliated use of 3D Organon Enterprise with undergraduate
+  medical-imaging students, including ultrasound and radiography, and
+  positive student reports about transparency and spatial understanding.
+  Determine whether evidence is objective learning performance, perception,
+  feasibility, or some combination.
+- Claimed recent work on generative-AI-enhanced VR patient encounters and
+  AI-generated nursing simulations. Identify exact studies and limitations.
+- A claimed Waynesburg University AI/VR nursing immersion room opening in
+  2026 using projection, laser, and touchscreen technologies. Verify the
+  project, its actual configuration, cost, and educational evaluation.
+- The unnamed SimMan procurement example and the vendor launch/feature
+  claims listed above.
+
+Treat these as search leads, not citations. If a claim cannot be substantiated,
+exclude it from the grant narrative or label the evidence gap explicitly.
+
+
+12. ORIGINAL IMAGE REFERENCES
+
+The pasted chat contained three image URLs without captions, provenance,
+or supporting claims. They were not opened, downloaded, or evaluated, and
+are not evidence for the proposed laboratory. Retained for source continuity:
+
+https://images.openai.com/static-rsc-4/LzNMZP-C2WTpigyKZvHlT8yPEFp4Hlv3d5SlI3omnKQq2ZuheVYeYERwoZ2FaDwjQCcGLsPaSq1zx9oy4eiADt4PF6musyUf67Wk-L1rnTHQr4RtMBZr8TszT34Cy4B47SqA4XlikSHSDj0D7jb1hshTWAw4pbYnwdE7UqwaJ7wdZBN-sIGC-M8CQtYXDReA?purpose=fullsize
+
+https://images.openai.com/static-rsc-4/p-Z_82XUDQl9zxKWzcssmcYyMGCXM7oLKT2Xje64nS4u8e9v2BJQTjUr6KEvBEMYSjqsWU7HHLRqYJ_PK94AnvPBrR-rjMbXlVUI_TYM2WCL4G2wAHL4BUb_RBaw0LcBBmYecat8PW4UlmFA8EwaAl_o6JmG10EAz2A9C8MchUbc5jLusas3UZyfyaIsAJfZ?purpose=fullsize
+
+https://images.openai.com/static-rsc-4/mei6WmPUOToIFNO2OWKv-7RD-3nTFxofZfizno9SJSz3xe82B2NiClE62leIOJ1wjYdTNt7lcdST4qRQbD2llcV8z8rEGR9O8_qMdOwguYixl3kewOGCcyDwiSwFuxE6RBfYQRBL5ibTCPL8cvBp0kxdbWl0zpgk8HkX7lJh5mLfSIGj51eScIw28aDvRDz6?purpose=fullsize
