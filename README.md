@@ -2,6 +2,14 @@
 
 Working materials to help Indiana University Fort Wayne develop an interdisciplinary immersive health professions learning laboratory in its leased NIIC space.
 
+## “I know… anatomy.”
+
+<a href="assets/i-know-kung-fu.jpg"><img src="assets/i-know-kung-fu.jpg" alt="Neo saying ‘I know kung fu.’" width="180"></a>
+
+Plug in. Pick what you need to learn. Cue the “whoa.” We’re starting with anatomy and physiology, one immersive lesson at a time.
+
+## Working materials
+
 - [Cleaned context](IU_Immersive_Learning_Context.txt): the substantive content of the supplied email and ChatGPT conversation, organized for reuse, with attribution and budget corrections.
 - [Research brief](Research_Brief.md): questions to resolve, evidence to collect, expected deliverables, and a ready-to-use deeper research prompt.
 - [IU site visit — September 9, 2026](iu-site-visit-sep-9-2026.md): discussion summary and reference links covering virtual patients, AACN competencies, Canvas, and MCP integration.
