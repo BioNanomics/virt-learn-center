@@ -2,9 +2,9 @@
 
 Working materials to help Indiana University Fort Wayne develop an interdisciplinary immersive health professions learning laboratory in its leased NIIC space.
 
-## “I know… anatomy.”
+## [“I know… anatomy.”](https://youtu.be/0YhJxJZOWBw?is=3JrDR0MdwNKeKsne)
 
-<a href="assets/i-know-kung-fu.jpg"><img src="assets/i-know-kung-fu.jpg" alt="Neo saying ‘I know kung fu.’" width="180"></a>
+<a href="https://youtu.be/0YhJxJZOWBw?is=3JrDR0MdwNKeKsne"><img src="assets/i-know-kung-fu.jpg" alt="Neo saying ‘I know kung fu.’ — watch on YouTube" width="180"></a>
 
 Plug in. Pick what you need to learn. Cue the “whoa.” We’re starting with anatomy and physiology, one immersive lesson at a time.
 
