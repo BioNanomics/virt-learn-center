@@ -63,6 +63,8 @@ Best use: show how a faculty-selected blood-loss scenario changes simulated circ
 
 ## Anatomy assets and emerging alternatives
 
+For a concrete visual reference, see [Hannah Newey’s *Cardiac Anatomy: External view of human heart*](https://sketchfab.com/3d-models/cardiac-anatomy-external-view-of-human-heart-a3f0ea2030214a6bbaa97e7357eebd58). The [visual quality standard](anatomy-visual-quality-standard.md) describes the intended presentation, and the [nursing anatomy resource map](nursing-anatomy-resource-map.md) extends sourcing across body systems. The heart’s listed CC BY-NC-SA 4.0 asset license is separate from any viewer’s software license.
+
 **Z-Anatomy** offers a navigable Blender atlas and a separate Unity PC viewer. Neither reviewed source documents a current Quest or Vision Pro application. It is more useful as content to adapt than as an immediately deployable headset app. The Unity viewer's latest listed release is from 2022. [Blender atlas](https://github.com/Z-Anatomy/Models-of-human-anatomy), [Unity viewer](https://github.com/LluisV/Z-Anatomy).
 
 The upstream atlas declares CC BY-SA 4.0 overall but also lists individual assets with noncommercial licenses, including kidney and inner-ear material. Track licenses per included model; the headline license does not settle the entire collection. [Upstream attribution list](https://github.com/Z-Anatomy/Models-of-human-anatomy#attributions).
